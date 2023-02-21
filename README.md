@@ -5,6 +5,7 @@
 nvm version >= v16.19.0
 
 ```bash
+npm install
 npm start
 ```
 
